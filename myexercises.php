@@ -12,7 +12,7 @@ $user_id = $_SESSION['user_id'];
 
 <html>
 	<head>
-		<title>Generic - Introspect by TEMPLATED</title>
+		<title>sporty</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
