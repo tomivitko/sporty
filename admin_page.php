@@ -17,7 +17,7 @@ if(isset($_POST['add_new_exercise']))
 ?>
 <html>
 	<head>
-		<title>Elements - Introspect by TEMPLATED</title>
+		<title>sporty</title>
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
